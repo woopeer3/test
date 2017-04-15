@@ -10,4 +10,3 @@ test
 oosaka
 tokyo
 oosakaingo
-yoshiaki
