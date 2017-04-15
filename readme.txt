@@ -7,3 +7,4 @@ sara
 yoshiaki
 yumiko
 test
+oosaka
