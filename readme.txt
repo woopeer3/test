@@ -4,3 +4,5 @@ sub text
 next comment
 ibuki
 sara
+yoshiaki
+yumiko
