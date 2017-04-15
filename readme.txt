@@ -9,4 +9,4 @@ yumiko
 test
 oosaka
 tokyo
-
+new
